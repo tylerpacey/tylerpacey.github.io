@@ -29,9 +29,9 @@ The bandit wargame is designed to teach the fundamentals of Linux through the us
 
 Below I've included a one-line synopsis of each challenge as well as a link to the full write-up and walkthrough.
 
-Level 0 > 1 -
-Level 1 > 2 -
-Level 2 > 3 -
+- Level 0 > 1 -
+- Level 1 > 2 -
+- Level 2 > 3 -
 Level 3 > 4 -
 Level 4 > 5 -
 Level 5 > 6 -
