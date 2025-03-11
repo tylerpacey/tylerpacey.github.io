@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# About Me
-
 Welcome to my cybersecurity blog! I'm passionate about **offensive security, penetration testing, and information security**. This blog documents my journey in the field, including **CTF write-ups, home lab setups, and security research**.
 
 ## 🚀 My Cybersecurity Journey  
