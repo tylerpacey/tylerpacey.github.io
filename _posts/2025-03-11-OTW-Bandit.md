@@ -14,8 +14,8 @@ That’s where OverTheWire: Bandit came in. It was the perfect way to refresh my
 
 The purpose of this walkthrough is twofold:
 
-    1. To document my experience solving Bandit so I have a reference for the future.
-    2. To provide a beginner-friendly guide that makes cybersecurity concepts easier to     understand.
+  1. To document my experience solving Bandit so I have a reference for the future.
+  2. To provide a beginner-friendly guide that makes cybersecurity concepts easier to       understand.
     
 One thing I’ve noticed in my journey is that while tons of information is available, not all of it is accessible to newcomers. The cybersecurity world often pushes the mindset of "Try harder," but I believe in a different approach. Some people (myself included) learn best by seeing a tool in action first, then applying it in their own way later. Instead of struggling through dry man pages trying to find the right flags and use cases, I prefer a guided approach that makes learning smoother and more practical.
 
