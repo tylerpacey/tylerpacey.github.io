@@ -1,7 +1,6 @@
 ---
 title: OverTheWire - Bandit FULL WalkThrough
 date: 2025-03-11 3:02:00  -0500
-author: Tyler Pacey
 description: A Full Walkthrough of the Bandit Wargame Hosted by OverTheWire.org
 categories: [CTF Write-Ups]
 tags: [CTF, OverTheWire, Bandit]
