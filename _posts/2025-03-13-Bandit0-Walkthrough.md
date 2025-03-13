@@ -24,6 +24,7 @@ Before we can do anything, we need to connect to the remote system using `SSH`. 
 
 When prompted, enter the password: bandit0
 
+
 ### Step 2: List the Files in the Directory
 
 Once connected, we need to check that the files are available in our home directory. The `ls` command lists the contents of a directory:
@@ -33,6 +34,7 @@ Once connected, we need to check that the files are available in our home direct
 This should return:
 
     readme
+
 
 ### Step 3: Read the Contents of `README`
 
