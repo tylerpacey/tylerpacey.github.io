@@ -63,9 +63,9 @@ Key Takeaways:
 
 `ssh [domain or IP]` - Used to connect to remote servers
 
-- `-p 2220` - Specifies the port number (default SSH is 22, but bandit uses 2220)
+- `-p [port number]` - Specifies the port number (default SSH is 22, but bandit uses 2220)
 
-- `-l bandit0` - Specifies the user on the domain as bandit0
+- `-l [user]` - Specifies the user on the domain, in this case bandit0
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
