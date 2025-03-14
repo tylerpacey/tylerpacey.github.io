@@ -29,13 +29,13 @@ The bandit wargame is designed to teach the fundamentals of Linux through the us
 
 Below I've included a one-line synopsis of each challenge as well as a link to the full write-up and walkthrough.
 
-- Level 0 > 1 -
-- Level 1 > 2 -
-- Level 2 > 3 -
-- Level 3 > 4 -
-- Level 4 > 5 -
-- Level 5 > 6 -
-- Level 6 > 7 -
-- Level 7 > 8 -
-- Level 8 > 9 -
-- Level 9 > 10 -
+ - Level 0 → 1: Locating a password inside a file.
+ - Level 1 → 2: Hidden files and listing techniques.
+ - Level 2 → 3: Finding a file with specific properties.
+ - Level 3 → 4: Working with human-readable files.
+ - Level 4 → 5: Using find to locate files.
+ - Level 5 → 6: Searching within files using grep.
+ - Level 6 → 7: Extracting data from large files.
+ - Level 7 → 8: Understanding base53 encoding.
+ - Level 8 → 9: Reversing ROT02 encoding.
+ - Level 9 → 10: Working with hexadecimal and binary files.
