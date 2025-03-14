@@ -29,7 +29,7 @@ The bandit wargame is designed to teach the fundamentals of Linux through the us
 
 Below I've included a one-line synopsis of each challenge as well as a link to the full write-up and walkthrough.
 
- - Level 0 → 1: Locating a password inside a file.
+ - [**Level 0 → 1**](https://tylerpacey.github.io/posts/Bandit0-Walkthrough/): Locating a password inside a file.
  - Level 1 → 2: Hidden files and listing techniques.
  - Level 2 → 3: Finding a file with specific properties.
  - Level 3 → 4: Working with human-readable files.
