@@ -30,12 +30,12 @@ The bandit wargame is designed to teach the fundamentals of Linux through the us
 Below I've included a one-line synopsis of each challenge as well as a link to the full write-up and walkthrough.
 
  - [**Level 0 → 1**](https://tylerpacey.github.io/posts/Bandit0-Walkthrough/): Locating a password inside a file.
- - Level 1 → 2: Hidden files and listing techniques.
- - Level 2 → 3: Finding a file with specific properties.
- - Level 3 → 4: Working with human-readable files.
- - Level 4 → 5: Using find to locate files.
- - Level 5 → 6: Searching within files using grep.
- - Level 6 → 7: Extracting data from large files.
- - Level 7 → 8: Understanding base53 encoding.
- - Level 8 → 9: Reversing ROT02 encoding.
- - Level 9 → 10: Working with hexadecimal and binary files.
+[**Level 1 → 2**](https://tylerpacey.github.io/posts/Bandit1-Walkthrough/):
+[**Level 2 → 3**](https://tylerpacey.github.io/posts/Bandit2-Walkthrough/):
+[**Level 3 → 4**](https://tylerpacey.github.io/posts/Bandit3-Walkthrough/):
+[**Level 4 → 5**](https://tylerpacey.github.io/posts/Bandit4-Walkthrough/):
+[**Level 5 → 6**](https://tylerpacey.github.io/posts/Bandit5-Walkthrough/):
+[**Level 6 → 7**](https://tylerpacey.github.io/posts/Bandit6-Walkthrough/):
+[**Level 7 → 8**](https://tylerpacey.github.io/posts/Bandit7-Walkthrough/):
+[**Level 8 → 9**](https://tylerpacey.github.io/posts/Bandit8-Walkthrough/):
+[**Level 9 → 10**](https://tylerpacey.github.io/posts/Bandit9-Walkthrough/):
